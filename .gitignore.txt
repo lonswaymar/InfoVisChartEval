@@ -1,0 +1,3 @@
+igorProProject.pxp
+.ipynb_checkpoints/
+
